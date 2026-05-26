@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Umer 👋
 
-<!--
-**code-runner006/code-runner006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Science student @ University of the Punjab (4th Semester)  
+📍 Lahore, Pakistan
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** C/C++ · JavaScript · HTML/CSS · SQL · Python (basic)
+- **Frameworks:** React.js (learning) · Flask (basic)
+- **Databases:** MySQL · Oracle 11g · MongoDB
+- **Tools:** Git/GitHub · Wireshark · VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Network Packet Analyzer](link) | Wireshark-inspired traffic monitor | Python, Flask, HTML/CSS/JS |
+| [Game Store System](link) | Console-based OOP store manager | C++ |
+| [Landing Page](link) | Responsive modern landing page | HTML, CSS |
+
+## 🔐 Cybersecurity
+- Hack The Box – Starting Point (all free machines) ✅
+- Buffer Overflow · DVWA · Hexstrike
+
+## 📚 Currently Learning
+- MERN Stack (React → Express → Node → MongoDB)
+- AI / Machine Learning (upcoming)
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/umerfarooqafridi)
