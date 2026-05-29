@@ -14,6 +14,7 @@ BS Computer Science student @ University of the Punjab (4th Semester)
 |---|---|---|
 | [Network Packet Analyzer](link) | Wireshark-inspired traffic monitor | Python, Flask, HTML/CSS/JS |
 | [Game Store System](link) | Console-based OOP store manager | C++ |
+| [To-Do List App](link) | Dynamic task manager with localStorage persistence | HTML, CSS, JavaScript |
 | [Landing Page](link) | Responsive modern landing page | HTML, CSS |
 
 ## 🔐 Cybersecurity
