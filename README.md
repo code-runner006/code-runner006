@@ -1,6 +1,6 @@
 # Hi, I'm Umer 👋
 
-BS Computer Science student @ University of the Punjab (4th Semester)  
+BS Computer Science student @ University of the Punjab   
 📍 Lahore, Pakistan
 
 ## 🛠️ Tech Stack
