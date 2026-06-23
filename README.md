@@ -1,17 +1,17 @@
 # Hi, I'm Umer 👋
-
-BS Computer Science student @ University of the Punjab   
+BS Computer Science student @ University of the Punjab  
 📍 Lahore, Pakistan
 
 ## 🛠️ Tech Stack
 - **Languages:** C/C++ · JavaScript · HTML/CSS · SQL · Python (basic)
-- **Frameworks:** React.js (learning) · Flask (basic)
+- **Frameworks:** React.js · Flask (basic)
 - **Databases:** MySQL · Oracle 11g · MongoDB
 - **Tools:** Git/GitHub · Wireshark · VS Code
 
 ## 🚀 Projects
 | Project | Description | Tech |
 |---|---|---|
+| [Pakistan Data Bank](https://github.com/code-runner006/pakistan-data-bank) | Interactive dashboard visualising Pakistan's economic & demographic data via World Bank API · [Live Demo](https://pakistan-data-bank.vercel.app) | React, Context API, Recharts, Bootstrap |
 | [Network Packet Analyzer](link) | Wireshark-inspired traffic monitor | Python, Flask, HTML/CSS/JS |
 | [Game Store System](link) | Console-based OOP store manager | C++ |
 | [To-Do List App](link) | Dynamic task manager with localStorage persistence | HTML, CSS, JavaScript |
@@ -22,8 +22,9 @@ BS Computer Science student @ University of the Punjab
 - Buffer Overflow · DVWA · Hexstrike
 
 ## 📚 Currently Learning
-- MERN Stack (React → Express → Node → MongoDB)
+- Backend with Express & Node.js (extending MERN stack)
 - AI / Machine Learning (upcoming)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/umerfarooqafridi)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/code-runner006)
