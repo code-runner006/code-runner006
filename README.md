@@ -14,8 +14,8 @@ BS Computer Science student @ University of the Punjab
 | [Pakistan Data Bank](https://github.com/code-runner006/pakistan-data-bank) | Interactive dashboard visualising Pakistan's economic & demographic data via World Bank API · [Live Demo](https://pakistan-data-bank.vercel.app) | React, Context API, Recharts, Bootstrap |
 | [Network Packet Analyzer](link) | Wireshark-inspired traffic monitor | Python, Flask, HTML/CSS/JS |
 | [Game Store System](link) | Console-based OOP store manager | C++ |
-| [To-Do List App](link) | Dynamic task manager with localStorage persistence | HTML, CSS, JavaScript |
-| [Landing Page](link) | Responsive modern landing page | HTML, CSS |
+| [To-Do List App](link) | Dynamic task manager with localStorage persistence · [Live Demo](https://to-do-app-umer10.vercel.app) | HTML, CSS, JavaScript |
+| [Landing Page](link) | Responsive modern landing page · [Live Demo](https://landing-page-three-nu-56.vercel.app) | HTML, CSS |
 
 ## 🔐 Cybersecurity
 - Hack The Box – Starting Point (all free machines) ✅
