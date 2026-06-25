@@ -12,10 +12,10 @@ BS Computer Science student @ University of the Punjab
 | Project | Description | Tech |
 |---|---|---|
 | [Pakistan Data Bank](https://github.com/code-runner006/pakistan-data-bank) | Interactive dashboard visualising Pakistan's economic & demographic data via World Bank API · [Live Demo](https://pakistan-data-bank.vercel.app) | React, Context API, Recharts, Bootstrap |
-| [Network Packet Analyzer](link) | Wireshark-inspired traffic monitor | Python, Flask, HTML/CSS/JS |
-| [Game Store System](link) | Console-based OOP store manager | C++ |
-| [To-Do List App](link) | Dynamic task manager with localStorage persistence · [Live Demo](https://to-do-app-umer10.vercel.app) | HTML, CSS, JavaScript |
-| [Landing Page](link) | Responsive modern landing page · [Live Demo](https://landing-page-three-nu-56.vercel.app) | HTML, CSS |
+| [Network Packet Analyzer](https://github.com/code-runner006/Network-Monitoring-Project) | Wireshark-inspired traffic monitor | Python, Flask, HTML/CSS/JS |
+| [Game Store System](https://github.com/code-runner006/OOP-ProjectGameStore) | Console-based OOP store manager | C++ |
+| [To-Do List App](https://github.com/code-runner006/To-Do-App) | Dynamic task manager with localStorage persistence · [Live Demo](https://to-do-app-umer10.vercel.app) | HTML, CSS, JavaScript |
+| [Landing Page](https://github.com/code-runner006/Landing-page) | Responsive modern landing page · [Live Demo](https://landing-page-three-nu-56.vercel.app) | HTML, CSS |
 
 ## 🔐 Cybersecurity
 - Hack The Box – Starting Point (all free machines) ✅
